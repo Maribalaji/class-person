@@ -10,6 +10,6 @@ class Person{
     }
 }
 let user=new Person("john",23,"India");
-let user2=new Person("jack",23,"India")
+let user2=new Person("jack",24,"India")
 user.display();
 user2.display();
