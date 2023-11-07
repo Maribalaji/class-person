@@ -6,7 +6,7 @@ class Person{
         this.country=country;
     }
     display(){
-        document.write(`Hi, My Name is ${this.name},Age is ${this.age} and from ${this.country} <br>` )
+        document.write(`Hi, My Name is ${this.name},My Age is ${this.age} and I'm from ${this.country} <br>` )
     }
 }
 let user=new Person("john",23,"India");
